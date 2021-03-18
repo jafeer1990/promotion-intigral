@@ -4,7 +4,7 @@ This is RestAssured based api testing sample project for testing intigral popcor
 popcorn-api-rs-7.9.10
 Steps:
 Build:
-Clone project : git clone https://github.com/jafsit/intigral-promotions.git
+Clone project : git clone https://github.com/jafeer1990/promotion-intigral.git
 
 Import as maven project into IntelliJ IDE.
 Navigate to project directory and Build project by running following command in terminal : mvn clean install.
