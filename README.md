@@ -11,10 +11,13 @@ Navigate to project directory and Build project by running following command in 
 install allure reporter for reporting
 
 Execution:
+Option 1:
+To run from command line-go to project folder
+run "mvn clean test"
+Option 2:
 1.To run test class : Right click on test class name or within test class and select Run ClassName.
 src/test/java/com/restassured/intigral/tests/retrievepromotions/RetrievePromotionTest.java
-2.To run individual test : Right click on test case name and select Run TestName  -Test Name:RetrieveUserTest
-3.To run from command line -input command -"mvn clean test"
+2.To run individual test : Right click on test case name and select Run TestName
 
 Generate Reports:
 Run following command to view allure reports: allure serve.
